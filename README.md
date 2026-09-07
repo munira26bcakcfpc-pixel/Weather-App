@@ -28,8 +28,7 @@ Splash screen
 
 
 Home
-<img width="440" height="959" alt="Home" src="https://github.com/user-attachments/assets/904fb27c-5be5-4a85-8006-fdaa3f2215fb" />
-
+<img width="440" height="959" alt="Home (2)" src="https://github.com/user-attachments/assets/71ade622-7849-4511-baa4-5ede0d4b5c9f" />
 
 
 Hourly forecast
